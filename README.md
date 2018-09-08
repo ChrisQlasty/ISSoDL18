@@ -6,4 +6,5 @@ Minicourse concerned the introduction to Recurrent Neural Networks in prediction
 <br />
 * [RNNs in prediction](Part_I_RNNs_in_prediction.ipynb)
 * [RNNs in classification](Part_II_RNNs_in_classification.ipynb)
+* [helper functions](Functions.ipynb)
 
